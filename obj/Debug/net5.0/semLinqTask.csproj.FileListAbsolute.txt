@@ -1,0 +1,16 @@
+C:\Users\Tim\shit\Desktop\lessons\seminars\30.01.21\30.01.21\semLinqTask\bin\Debug\net5.0\semLinqTask.exe
+C:\Users\Tim\shit\Desktop\lessons\seminars\30.01.21\30.01.21\semLinqTask\bin\Debug\net5.0\semLinqTask.deps.json
+C:\Users\Tim\shit\Desktop\lessons\seminars\30.01.21\30.01.21\semLinqTask\bin\Debug\net5.0\semLinqTask.runtimeconfig.json
+C:\Users\Tim\shit\Desktop\lessons\seminars\30.01.21\30.01.21\semLinqTask\bin\Debug\net5.0\semLinqTask.runtimeconfig.dev.json
+C:\Users\Tim\shit\Desktop\lessons\seminars\30.01.21\30.01.21\semLinqTask\bin\Debug\net5.0\semLinqTask.dll
+C:\Users\Tim\shit\Desktop\lessons\seminars\30.01.21\30.01.21\semLinqTask\bin\Debug\net5.0\ref\semLinqTask.dll
+C:\Users\Tim\shit\Desktop\lessons\seminars\30.01.21\30.01.21\semLinqTask\bin\Debug\net5.0\semLinqTask.pdb
+C:\Users\Tim\shit\Desktop\lessons\seminars\30.01.21\30.01.21\semLinqTask\obj\Debug\net5.0\semLinqTask.csprojAssemblyReference.cache
+C:\Users\Tim\shit\Desktop\lessons\seminars\30.01.21\30.01.21\semLinqTask\obj\Debug\net5.0\semLinqTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\shit\Desktop\lessons\seminars\30.01.21\30.01.21\semLinqTask\obj\Debug\net5.0\semLinqTask.AssemblyInfoInputs.cache
+C:\Users\Tim\shit\Desktop\lessons\seminars\30.01.21\30.01.21\semLinqTask\obj\Debug\net5.0\semLinqTask.AssemblyInfo.cs
+C:\Users\Tim\shit\Desktop\lessons\seminars\30.01.21\30.01.21\semLinqTask\obj\Debug\net5.0\semLinqTask.csproj.CoreCompileInputs.cache
+C:\Users\Tim\shit\Desktop\lessons\seminars\30.01.21\30.01.21\semLinqTask\obj\Debug\net5.0\semLinqTask.dll
+C:\Users\Tim\shit\Desktop\lessons\seminars\30.01.21\30.01.21\semLinqTask\obj\Debug\net5.0\ref\semLinqTask.dll
+C:\Users\Tim\shit\Desktop\lessons\seminars\30.01.21\30.01.21\semLinqTask\obj\Debug\net5.0\semLinqTask.pdb
+C:\Users\Tim\shit\Desktop\lessons\seminars\30.01.21\30.01.21\semLinqTask\obj\Debug\net5.0\semLinqTask.genruntimeconfig.cache
