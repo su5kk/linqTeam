@@ -24,7 +24,7 @@ namespace semLinqTask
             // Потом будут еще запросы
 
             string path = "C:\\Users\\Tim\\shit\\Desktop\\lessons\\seminars\\30.01.21\\30.01.21\\semLinqTask\\WeatherEvents_Jan2016-Dec2020.csv";
-            //string suka = "C:\\Users\\Tim\\shit\\Desktop\\1.txt";
+            //string sup = "C:\\Users\\Tim\\shit\\Desktop\\1.txt";
             using (StreamReader streamReader = new StreamReader(File.Open(path, FileMode.Open)))
             {
                 streamReader.ReadLine();
